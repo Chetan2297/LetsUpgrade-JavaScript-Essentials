@@ -1,1 +1,1 @@
-JavaScript-Essentials
+JavaScript-Essentials-Assignment
